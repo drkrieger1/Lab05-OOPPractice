@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shop2\\Source\\Repos\\Lab05-OOPPractice\\lab05-erik\\lab05-erik\\lab05-erik.csproj",
-      "projectName": "lab05-erik",
-      "projectPath": "C:\\Users\\shop2\\Source\\Repos\\Lab05-OOPPractice\\lab05-erik\\lab05-erik\\lab05-erik.csproj",
+      "projectUniqueName": "C:\\Users\\shop2\\Source\\Repos\\Lab05-OOPPractice\\lab05-erik\\lab05-erik\\lab05_erik.csproj",
+      "projectName": "lab05_erik",
+      "projectPath": "C:\\Users\\shop2\\Source\\Repos\\Lab05-OOPPractice\\lab05-erik\\lab05-erik\\lab05_erik.csproj",
       "packagesPath": "C:\\Users\\shop2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shop2\\Source\\Repos\\Lab05-OOPPractice\\lab05-erik\\lab05-erik\\obj\\",
       "projectStyle": "PackageReference",
